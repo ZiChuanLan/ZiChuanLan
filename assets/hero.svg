@@ -29,17 +29,17 @@
 
   <circle cx="744" cy="87" r="42" fill="none" stroke="#f472b6" stroke-opacity="0.16" stroke-width="1"/>
 
-  <path d="M706 128C744 112 774 94 802 80 820 70 832 58 842 48" fill="none" stroke="#6b7684" stroke-opacity="0.45" stroke-width="1" stroke-linecap="round"/>
+  <path d="M706 124C742 112 772 98 798 86 816 78 828 72 838 66" fill="none" stroke="#6b7684" stroke-opacity="0.45" stroke-width="1" stroke-linecap="round"/>
 
-  <use href="#blossom" transform="translate(842 48) scale(0.55)"/>
-  <use href="#blossom" transform="translate(802 80) scale(0.38)"/>
-  <use href="#blossom" transform="translate(750 112) scale(0.26)"/>
-  <use href="#blossom" transform="translate(712 128) scale(0.18)"/>
+  <use href="#blossom" transform="translate(838 66) scale(0.50)"/>
+  <use href="#blossom" transform="translate(798 86) scale(0.36)"/>
+  <use href="#blossom" transform="translate(752 108) scale(0.26)"/>
+  <use href="#blossom" transform="translate(714 122) scale(0.18)"/>
 
   <g fill="#f472b6" fill-opacity="0.3">
-    <ellipse cx="818" cy="70" rx="2.2" ry="3.7" transform="rotate(28 818 70)"/>
-    <ellipse cx="778" cy="94" rx="2" ry="3.4" transform="rotate(-22 778 94)"/>
-    <ellipse cx="730" cy="120" rx="1.8" ry="3" transform="rotate(44 730 120)"/>
+    <ellipse cx="812" cy="82" rx="2.2" ry="3.7" transform="rotate(28 812 82)"/>
+    <ellipse cx="776" cy="102" rx="2" ry="3.4" transform="rotate(-22 776 102)"/>
+    <ellipse cx="734" cy="116" rx="1.8" ry="3" transform="rotate(44 734 116)"/>
     <ellipse cx="700" cy="86" rx="1.7" ry="2.9" transform="rotate(-36 700 86)"/>
   </g>
 </svg>
