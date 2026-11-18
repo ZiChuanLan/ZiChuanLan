@@ -12,7 +12,7 @@
       <circle r="1.9" fill="#f472b6"/>
     </g>
   </defs>
-  <g stroke="#94a3b8" stroke-opacity="0.34" stroke-width="1">
+  <g stroke="#6b7684" stroke-opacity="0.34" stroke-width="1">
     <line x1="0" y1="28" x2="404" y2="28"/>
     <line x1="476" y1="28" x2="880" y2="28"/>
   </g>
