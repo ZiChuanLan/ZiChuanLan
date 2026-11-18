@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 168" width="880" height="168" role="img" aria-label="ZiChuanLan">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 162" width="880" height="162" role="img" aria-label="ZiChuanLan">
   <defs>
     <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#f472b6"/>
@@ -20,26 +20,26 @@
 
   <g stroke="#6b7684" stroke-opacity="0.38" stroke-width="1">
     <line x1="0" y1="40" x2="880" y2="40"/>
-    <line x1="0" y1="150" x2="880" y2="150"/>
+    <line x1="0" y1="134" x2="880" y2="134"/>
   </g>
 
-  <text x="0" y="28" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="10" letter-spacing="5" fill="#6b7684">PORTFOLIO</text>
+  <text x="0" y="29" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="10" letter-spacing="5" fill="#6b7684">PORTFOLIO</text>
 
-  <text x="-3" y="112" font-family="ui-sans-serif, -apple-system, 'Segoe UI', sans-serif" font-size="42" font-weight="300" letter-spacing="9" fill="url(#ink)">ZI CHUAN LAN</text>
+  <text x="0" y="104" font-family="ui-sans-serif, -apple-system, 'Segoe UI', sans-serif" font-size="40" font-weight="300" letter-spacing="9" fill="url(#ink)">ZI CHUAN LAN</text>
 
-  <circle cx="742" cy="92" r="44" fill="none" stroke="#f472b6" stroke-opacity="0.16" stroke-width="1"/>
+  <circle cx="744" cy="87" r="42" fill="none" stroke="#f472b6" stroke-opacity="0.16" stroke-width="1"/>
 
-  <path d="M700 146C742 128 764 108 792 92 812 80 826 66 838 52" fill="none" stroke="#6b7684" stroke-opacity="0.45" stroke-width="1" stroke-linecap="round"/>
+  <path d="M706 128C744 112 774 94 802 80 820 70 832 58 842 48" fill="none" stroke="#6b7684" stroke-opacity="0.45" stroke-width="1" stroke-linecap="round"/>
 
-  <use href="#blossom" transform="translate(838 52) scale(0.6)"/>
-  <use href="#blossom" transform="translate(792 92) scale(0.42)"/>
-  <use href="#blossom" transform="translate(742 120) scale(0.3)"/>
-  <use href="#blossom" transform="translate(706 143) scale(0.22)"/>
+  <use href="#blossom" transform="translate(842 48) scale(0.55)"/>
+  <use href="#blossom" transform="translate(802 80) scale(0.38)"/>
+  <use href="#blossom" transform="translate(750 112) scale(0.26)"/>
+  <use href="#blossom" transform="translate(712 128) scale(0.18)"/>
 
   <g fill="#f472b6" fill-opacity="0.3">
-    <ellipse cx="806" cy="122" rx="2.3" ry="3.9" transform="rotate(26 806 122)"/>
-    <ellipse cx="770" cy="62" rx="2.1" ry="3.6" transform="rotate(-24 770 62)"/>
-    <ellipse cx="820" cy="86" rx="1.9" ry="3.2" transform="rotate(54 820 86)"/>
-    <ellipse cx="726" cy="96" rx="1.7" ry="2.9" transform="rotate(-40 726 96)"/>
+    <ellipse cx="818" cy="70" rx="2.2" ry="3.7" transform="rotate(28 818 70)"/>
+    <ellipse cx="778" cy="94" rx="2" ry="3.4" transform="rotate(-22 778 94)"/>
+    <ellipse cx="730" cy="120" rx="1.8" ry="3" transform="rotate(44 730 120)"/>
+    <ellipse cx="700" cy="86" rx="1.7" ry="2.9" transform="rotate(-36 700 86)"/>
   </g>
 </svg>
