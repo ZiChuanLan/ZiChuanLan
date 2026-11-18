@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 56" width="880" height="56" role="img" aria-label="">
+  <defs>
+    <path id="p2" d="M0 0C-6.6-7.4-6.6-19 0-24.8 6.6-19 6.6-7.4 0 0Z"/>
+    <g id="b2">
+      <g fill="none" stroke="#f472b6" stroke-width="1.1" stroke-linejoin="round" stroke-linecap="round">
+        <use href="#p2"/>
+        <use href="#p2" transform="rotate(72)"/>
+        <use href="#p2" transform="rotate(144)"/>
+        <use href="#p2" transform="rotate(216)"/>
+        <use href="#p2" transform="rotate(288)"/>
+      </g>
+      <circle r="1.9" fill="#f472b6"/>
+    </g>
+  </defs>
+  <g stroke="#94a3b8" stroke-opacity="0.34" stroke-width="1">
+    <line x1="0" y1="28" x2="404" y2="28"/>
+    <line x1="476" y1="28" x2="880" y2="28"/>
+  </g>
+  <use href="#b2" transform="translate(440 28) scale(0.92)"/>
+</svg>
