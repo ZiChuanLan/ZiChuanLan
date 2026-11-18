@@ -19,15 +19,15 @@
   </defs>
 
   <g stroke="#6b7684" stroke-opacity="0.38" stroke-width="1">
-    <line x1="24" y1="40" x2="856" y2="40"/>
-    <line x1="24" y1="212" x2="856" y2="212"/>
+    <line x1="0" y1="40" x2="880" y2="40"/>
+    <line x1="0" y1="212" x2="880" y2="212"/>
   </g>
 
-  <text x="24" y="28" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="10" letter-spacing="5" fill="#6b7684">PORTFOLIO</text>
+  <text x="0" y="28" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="10" letter-spacing="5" fill="#6b7684">PORTFOLIO</text>
 
-  <text x="20" y="128" font-family="ui-sans-serif, -apple-system, 'Segoe UI', sans-serif" font-size="42" font-weight="300" letter-spacing="9" fill="url(#ink)">ZI CHUAN LAN</text>
+  <text x="-3" y="128" font-family="ui-sans-serif, -apple-system, 'Segoe UI', sans-serif" font-size="42" font-weight="300" letter-spacing="9" fill="url(#ink)">ZI CHUAN LAN</text>
 
-  <text x="24" y="172" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="14" letter-spacing="0.8" fill="#6b7684">把重复的脏活，做成一次配置就能跑的工具。</text>
+  <text x="0" y="172" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="14" letter-spacing="0.8" fill="#6b7684">把重复的脏活，做成一次配置就能跑的工具。</text>
 
   <circle cx="726" cy="120" r="58" fill="none" stroke="#f472b6" stroke-opacity="0.16" stroke-width="1"/>
 
